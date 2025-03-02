@@ -1,2 +1,5 @@
-# Spam-Detection
-ML algorithms used to detect whether a mail is a spam or not
+# Overview
+This project focuses on building a machine learning model to classify emails as spam or ham.
+● Spam refers to unwanted, irrelevant, or deceptive emails often sent in bulk for advertising, phishing, or fraud.
+● Ham refers to legitimate, non-spam emails that are relevant and safe for the recipient.
+
